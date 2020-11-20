@@ -5,13 +5,15 @@ body{
     font-family: "Arial";
     margin: 0;
     padding: 0;
+    font-weight: bold;
 }
 
 #cabecera {
-    background-color: #3c2;
+    background-color: cornflowerblue;
     margin: 0;
     padding: 0.5em;
     font-size: 1em;
+    box-shadow: 0px 0px 5px #000;
 }
 
 
@@ -20,8 +22,8 @@ body{
     padding: 0;
     text-align: left;
     border: 1px solid #111;
-    margin: 0 auto;
-    background-color: tomato;
+    margin: 200px auto;
+    background-color: #111;
 }
 
 #post h1{
