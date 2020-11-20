@@ -24,8 +24,9 @@ body{
     background-color: tomato;
 }
 
-#container h1{
+#post h1{
     font-size: 20px;
+    text-align: center;
 }
 
 #container #post{
@@ -34,4 +35,5 @@ body{
 
 #title{
     color: #111;
+    font-size: 25px;
 }
